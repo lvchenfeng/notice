@@ -1,0 +1,16 @@
+{
+    "name": "rongwen/notice",
+    "description": "This a notice component",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "甘伟东",
+            "email": "1205691119@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
